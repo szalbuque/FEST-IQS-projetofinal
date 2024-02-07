@@ -22,6 +22,7 @@ Estas páginas contêm os documentos e links referentes ao projeto final do curs
 
 | Data | Assunto | Professor(a) | Exercício |
 |------|---------|--------------|-----------|
+| 29/01/2024 | Pensamento Sistêmico | Ivanir da Costa Alves | [link](https://www.plectica.com/maps/ACPE9NRLE) |
 | 30/01/2024 | Framework Scrum | Ivanir da Costa Alves | [link](https://www.plectica.com/maps/7HFKJB39O) |
 | 31/01/2021 | Gerência de requisitos | Ivanir da Costa Alves |  [link](https://www.plectica.com/maps/AMOM7DHAK) |
 | 01/02/2024 | Backlog do produto | Ivanir da Costa Alves | [link](https://www.plectica.com/maps/AMOM7DHAK)  |
