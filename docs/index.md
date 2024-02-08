@@ -10,9 +10,9 @@ Estas páginas contêm os documentos e links referentes ao projeto final do curs
 ## Parte 2 - Realização dos testes
 
 * Tipo de teste escolhido: manuais
-* [Planejamento dos testes]()
-* [Relatórios de evidência]()
-* [Relatórios de incidência]()
+* [Planejamento dos testes](https://docs.google.com/spreadsheets/d/1hEgIWfgsMaLjLEGoloxnhIXonpwtvUpMMKowwmW113I/edit?usp=sharing)
+* [Relatórios de evidência](https://docs.google.com/presentation/d/1c6vCY33_OUkFV6p8diFZvUswt6KTPwsP-TlMZKbc-x8/edit?usp=sharing)
+* [Relatórios de incidência](https://docs.google.com/presentation/d/1gC4LufDFgmHKsLTxZyOQMcYCLhcyMKsSmx57glpgyQQ/edit?usp=sharing)
 
 ## Parte 3 - Mapa mental dos conceitos aprendidos
 
