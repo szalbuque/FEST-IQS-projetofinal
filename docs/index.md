@@ -16,7 +16,7 @@ Estas páginas contêm os documentos e links referentes ao projeto final do curs
 
 ## Parte 3 - Mapa mental dos conceitos aprendidos
 
-* Clique aqui para ver o mapa mental
+* [Clique aqui](https://www.plectica.com/maps/R4HIZ0RCC) para ver o mapa mental
 
 ## Parte 4 - Exercícios realizados durante o curso
 
