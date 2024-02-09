@@ -30,6 +30,7 @@ Estas páginas contêm os documentos e links referentes ao projeto final do curs
 | 05/02/2024 | Testes manuais de tela e de API | Agatha Carvalho | [relatos de evidência](https://docs.google.com/document/d/1nfTgnv9PJox5rqcZG7WJW977y-MxDMGNyoHElaSPExA/edit?usp=sharing) ; [relatos de incidência](https://docs.google.com/document/d/1rOLVINnAxcUgo1bdhbi-gQjnCnVvS7Yw7nahFdFO5Gg/edit?usp=sharing)|
 | 06/02/2024 | Robot framework | Breno Magrani | [repositório](https://github.com/szalbuque/robot-exercises/tree/main)|
 | 07/02/2024 | Teste automatizado de frontend com Selenium | Ércules Mauricio | [exercícios na aula](https://github.com/szalbuque/robot-exercises/blob/7c2b19bc834f4124d322acd06b19a0342c0adaa7/aulaselenium.robot) ; [teste no sistema de competências](https://github.com/szalbuque/testes-automatizados-tela/blob/2b9b370aaa97b737a90171b4cd85d1f220988579/testacompetencia.robot); [teste no sistema biblioteca](https://github.com/szalbuque/testes-automatizados-tela/blob/5815622c42b4b10ce8aa0bac94f85cd9b0e374f6/testacompetencia.robot)|
+| 08/02/2024 | Teste automatizado de API com Robot Framework | Richard Okubo | |
 
 
 
