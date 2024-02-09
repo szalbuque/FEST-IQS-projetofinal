@@ -33,14 +33,7 @@ Estas páginas contêm os documentos e links referentes ao projeto final do curs
 | 08/02/2024 | Teste automatizado de API com Robot Framework | Richard Okubo | |
 
 
-
-
-
-
-
-
-
-
 ## Author
+![Foto](Silvia2.png)<br>
 Silvia Z. Rocha<br>
 [Github: https://github.com/szalbuque](https://github.com/szalbuque)
